@@ -54,6 +54,16 @@ Para usar este gerador de QR Code, siga os passos abaixo:
 * Implementar uma interface gráfica para facilitar o uso.
 * Adicionar a funcionalidade de ler QR Codes de imagens.
 
+## Contribuição e Feedback
+
+Se você tiver alguma sugestão de melhoria, encontrar algum erro ou tiver alguma ideia para tornar este projeto ainda melhor, por favor, sinta-se à vontade para me avisar! Você pode:
+
+* **Abrir uma Issue:** Se você encontrar um bug ou tiver uma sugestão específica, você pode abrir uma nova "Issue" na aba de "Issues" do repositório no GitHub.
+* **Enviar um Pull Request:** Se você quiser contribuir com código, pode fazer um "fork" do repositório, fazer as suas alterações e enviar um "Pull Request" para que eu possa revisar e incorporar as suas mudanças.
+* **Deixar um comentário:** Você também pode deixar um comentário na página do repositório.
+
+Seu feedback é muito importante para o desenvolvimento deste projeto!
+
 ## Autor
 
 Este projeto foi desenvolvido por Igor Maicon Rocha de Jesus Muniz.
