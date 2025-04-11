@@ -47,13 +47,6 @@ Para usar este gerador de QR Code, siga os passos abaixo:
 5.  Você digita: `perfil_github` e pressiona Enter.
 6.  Será gerado um arquivo chamado `perfil_github.png` com o QR Code para o seu perfil do GitHub.
 
-## Possíveis Melhorias Futuras
-
-* Adicionar opções para personalizar a cor do QR Code e do fundo.
-* Permitir que o usuário escolha o nível de correção de erros.
-* Implementar uma interface gráfica para facilitar o uso.
-* Adicionar a funcionalidade de ler QR Codes de imagens.
-
 ## Contribuição e Feedback
 
 Se você tiver alguma sugestão de melhoria, encontrar algum erro ou tiver alguma ideia para tornar este projeto ainda melhor, por favor, sinta-se à vontade para me avisar! Você pode:
